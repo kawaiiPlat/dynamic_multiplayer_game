@@ -9,9 +9,13 @@ Tentative thoughts:
 - Power-up by following exactly a trail (consuming the gas)
 - Centripetal force around corners
 - Maybe retro/futuristic/RGB artistic theme
-- Maybe distopia city map (think cyberpunk)
+- Maybe dystopia city map (think cyberpunk)
 
 ---
 
 # Current Tentative Dev List:
 [kawaiiPlat](github.com/kawaiiPlat)
+[rango3526](github.com/rango3526)
+[Hawsonn](github.com/Hawsonn)
+[isaacfuenmayora](github.com/isaacfuenmayora)
+[yonasbahre](github.com/yonasbahre)
